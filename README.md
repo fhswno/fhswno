@@ -16,4 +16,4 @@ You can find me on [Twitter](https://twitter.com/fhswno) & [LinkedIn](https://ww
 # Technical Stack
 
 ![](https://img.shields.io/badge/<OS>-<macOS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<000000>&logoColor=white&color=2bbc8a)
