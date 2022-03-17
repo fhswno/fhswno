@@ -27,7 +27,21 @@ I can't include all of my project's code on GitHub, but if you want to see some 
 # GitHub Stats 📈
 
 [![fhswno's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhswno)](https://github.com/fhswno/github-README.md)
-# GitHub Stats 📈
+
+# I'm currently learning...👶
+
+I'm currently learning Solidity and Web3 Development - I really think that Web3 and Crypto have a bright future and I'm currently building DApps and Web3 projects.
+
+# I'm interested in...👀
+
+iOS and Software Development - I have experience building iOS apps (with UIKit & SwiftUI), and some academic programming experience in Python, Java & SQL. I'm looking for a first experience in either iOS or Python/Java. 
+
+
+
+
+
+
+
 
 
 
