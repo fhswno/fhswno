@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, and welcome here! 👋🏻
-My name is David Ohayon and I'm a Junior Developer from France, living in London, and looking for a Junior Developer position (iOS/Java or Python). 
+My name is David Ohayon and I'm a Full-Stack Engineer from London. 
 You can find me on [Twitter](https://twitter.com/fhswno) & [LinkedIn](https://www.linkedin.com/in/davidohayon1998/).
 
 # Technical Stack
