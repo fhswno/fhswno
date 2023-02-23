@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, and welcome here! 👋🏻
-My name is David and I'm a Full-Stack Engineer from London. 
+My name is David and I'm a Full-Stack Engineer from West London. 
 You can find me on [Twitter](https://twitter.com/fhswno) & [LinkedIn](https://www.linkedin.com/in/davidohayon1998/).
 
 # Technical Stack
@@ -26,9 +26,11 @@ I can't include all of my project's code on GitHub, but if you want to see some 
 
 I'm currently learning Solidity and Web3 Development - I really think that Web3 and Crypto have a bright future and I'm currently building DApps and Web3 projects.
 
+I'm currently learning to develop Augmented Reality experiences, with the aim of making it commercially available for cooler stuff than Snapchat Lenses or Apple Measure.
+
 # I'm interested in...👀
 
-iOS and Software Development - I have experience building iOS apps (with UIKit & SwiftUI), and some academic programming experience in Python, Java & SQL. I'm looking for a first experience in either iOS or Python/Java. 
+Building a product whose people will be able to conveniently interact with, no matter the device they use. It must have be used on mobile, web, desktop, tv, cars and even on VR headsets. The codebase must be easy to maintain, yet take care of platform specs. JavaScript end-to-end to get it done, tweeting on my progress every day.
 
 
 
