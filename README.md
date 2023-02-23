@@ -24,8 +24,6 @@ I can't include all of my project's code on GitHub, but if you want to see some 
 
 # I'm currently learning...👶
 
-I'm currently learning Solidity and Web3 Development - I really think that Web3 and Crypto have a bright future and I'm currently building DApps and Web3 projects.
-
 I'm currently learning to develop Augmented Reality experiences, with the aim of making it commercially available for cooler stuff than Snapchat Lenses or Apple Measure.
 
 # I'm interested in...👀
