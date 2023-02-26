@@ -20,7 +20,7 @@ I can't include all of my project's code on GitHub, but if you want to see some 
 
 # GitHub Stats 📈
 
-![fhswno's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhswno&show_icons=true&theme=dark&bg_color=45,FF512F,DD2476)
+![fhswno's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhswno&show_icons=true&theme=dark&text_color=FFFFFF&bg_color=45,FF512F,DD2476)
 
 # I'm currently learning...👶
 
