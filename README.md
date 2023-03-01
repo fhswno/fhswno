@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, and welcome here! 👋🏻
-My name is David and I'm a Full-Stack Engineer from West London. 
-You can find me on [Twitter](https://twitter.com/fhswno) & [LinkedIn](https://www.linkedin.com/in/davidohayon1998/).
+I'm David, Full-Stack Engineer from West London 🇬🇧
+Always keen to connect on [Twitter](https://twitter.com/fhswno) & [LinkedIn](https://www.linkedin.com/in/davidohayonuk/).
 
 # Technical Stack
 
@@ -15,7 +15,7 @@ You can find me on [Twitter](https://twitter.com/fhswno) & [LinkedIn](https://ww
 
 I add common patterns and templates on this GitHub account, in order to work more efficiently when I need to implement common data structures or UI patterns on my project. I also love to write quick documentation, so that I can refresh my knowledge of a given language if needed, and start building features/projects with it. 
 
-I can't include all of my project's code on GitHub, but if you want to see some projects or docs, feel free to let me know!
+I can't include all of my projects' code on GitHub, but if you want to see some projects or docs, feel free to let me know!
 
 # GitHub Stats 📈
 
@@ -27,17 +27,4 @@ I'm currently learning to develop Augmented Reality experiences, with the aim of
 
 # I'm interested in...👀
 
-Building a product whose people will be able to conveniently interact with, no matter the device they use. It must have be used on mobile, web, desktop, tv, cars and even on VR headsets. The codebase must be easy to maintain, yet take care of platform specs. JavaScript end-to-end to get it done, tweeting on my progress every day.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Building a product whose people will be able to conveniently interact with, no matter the device they use. It must be used on mobile, web, desktop, tv, cars and even on VR headsets - and the UX must be perfectly adapted to the device, and not the other way round. The codebase must be easy to maintain, yet take care of platform specs. JavaScript end-to-end to get it done, tweeting on my progress every day.
