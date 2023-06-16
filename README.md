@@ -15,7 +15,7 @@ Always keen to connect on [Twitter](https://twitter.com/fhswno) & [LinkedIn](htt
 
 I add common patterns and templates on this GitHub account, in order to work more efficiently when I need to implement common data structures or UI patterns on my projects. I also love to write quick documentation, so that I can refresh my knowledge of a given language if needed, and start building features/projects with it. 
 
-I can't include all of my projects' code on GitHub, but if you want to see some projects or docs, feel free to let me know!
+I can't include all of my projects' code on public repos, but if you want to see some projects or docs, feel free to let me know.
 
 # GitHub Stats 📈
 
