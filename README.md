@@ -27,4 +27,4 @@ I'm currently learning to develop Augmented Reality experiences, with the aim of
 
 # I'm interested in...👀
 
-Building a product whose people will be able to conveniently interact with, no matter the device they use. It must be used on mobile, web, desktop, tv, cars and even on VR headsets - and the UX must be perfectly adapted to the device, and not the other way round. The codebase must be easy to maintain, yet take care of platform specs. JavaScript end-to-end to get it done, tweeting on my progress every day.
+Building a product people will be able to conveniently interact with, no matter the device they use. It must be used on mobile, web, desktop, tv, cars and even on VR headsets - and the UX must be perfectly adapted to the device, and not the other way round. The codebase must be easy to maintain, yet take care of platform specs. JavaScript end-to-end to get it done, tweeting on my progress every day.
