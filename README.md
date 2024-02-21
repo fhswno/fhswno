@@ -30,8 +30,6 @@ Note: These are stats on my personal repos. Contributions on organisations' repo
 
 I'm currently learning to develop "greenfield" Augmented Reality experiences, with the aim to create a cross-platfrom, JS/TS-based AR framework, so developers can leverage AR for cooler stuff than Snapchat Lenses or Apple Measure. 
 
-I'm also learning Rust when I have a bit of time - I've heard a lot of good stuff about it and its popularity in production is soaring. I'm still trying to figure out when it could be the "best tool for the job" though, as the learning curve seems quite high. 
-
 # I'm interested in...👀
 
 Helping non-technical people acquiring tech skills - the world needs more devs than ever, but universities, MOOCs and bootcamps create more barriers than bridges for people to dive into tech. I'm trying to build a product to address this challenge, and help anyone get in the tech industry, without student loans, without having to give up full-time employment, without having to struggle learning alone. 
