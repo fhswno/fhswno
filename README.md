@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hey there! 👋🏻
 
-I'm Dave, SoftEng from West London 🇬🇧
+Building from West London 🇬🇧
 
 Always keen to connect on [X](https://x.com/fhswno) & [LinkedIn](https://www.linkedin.com/in/davidohayonuk/).
 
