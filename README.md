@@ -12,5 +12,5 @@ Active on [X](https://x.com/fhswno).
 # Current Projects 
 
 - 🧠 [Seekbase](https://seekbase.dev) - the open, local-only, AI-native knowledgebase.
-- 🏗️ [Scribex](https://scribex.js) - a Next-native, opionated Rich Text Editor that's fully customisable, designed for AI interactions.
+- 🏗️ [Scribex](https://scribex.dev) - a Next-native, opionated Rich Text Editor that's fully customisable, designed for AI interactions.
 
