@@ -7,6 +7,10 @@ You can click the Preview link to take a look at your changes.
 
 Building from West London 🇬🇧
 
-Always keen to connect on [X](https://x.com/fhswno).
+Active on [X](https://x.com/fhswno).
 
-My website 👉 [davidohayon.uk](https://www.davidohayon.uk)
+# Current Projects 
+
+- 🧠 [Seekbase](https://seekbase.dev) - the open, local-only, AI-native knowledgebase.
+- 🏗️ [Scribex](https://scribex.js) - a Next-native, opionated Rich Text Editor that's fully customisable, designed for AI interactions.
+
