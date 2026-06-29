@@ -13,4 +13,5 @@ Active on [X](https://x.com/fhswno).
 
 - 🧠 [Seekbase](https://seekbase.dev) - the open, local-only, AI-native knowledgebase.
 - 🏗️ [Blokhaus](https://blokhaus.fhswno.com) - a Next-native, opionated Rich Text Editor that's fully customisable, designed for AI interactions.
+- ⚓️ [Portpier](https://pypi.org/project/portpier/) - a lightweight TUI to manage ports on macOS.
 
